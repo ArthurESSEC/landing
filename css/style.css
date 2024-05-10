@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital@0;1&family=Poppins:ital@0;1&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+
+body {
+	font-family: 'Poppins';
+	font-size: 18px;
+	margin: 0;
+	align-content: center;
+	background-color: rgb(240,240,240);
+}
+
+h1, h2, h3 {
+	font-family: 'Noto Sans'
+	font-weight: bold;
+	align-content: center;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+h4 {
+	font-weight: lighter;
+	font-size: 32px;
+}
+
+a {
+	text-decoration: none;
+}
+
+#headline {
+	text-align: left;
+	text-shadow: 2px 2px black;
+	color: white;
+}
+
+
+
+
+
